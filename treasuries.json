@@ -1,0 +1,409 @@
+{
+  "Series 1": [
+    {
+      "id": "ETF",
+      "name": "ETF",
+      "color": "#F7B5C2"
+    },
+    {
+      "parent": "ETF",
+      "name": "Hasdex Bitcoin Futures ETF",
+      "value": 0
+    },
+    {
+      "id": "Public",
+      "name": "Public",
+      "color": "#95ADC7"
+    },
+    {
+      "parent": "Public",
+      "name": "Coin Citadel",
+      "value": 4
+    },
+    {
+      "parent": "Public",
+      "name": "Sphere 3D",
+      "value": 16.5
+    },
+    {
+      "parent": "Public",
+      "name": "MOGO Inc.",
+      "value": 50
+    },
+    {
+      "parent": "Public",
+      "name": "FRMO Corp.",
+      "value": 62.84
+    },
+    {
+      "parent": "Public",
+      "name": "BTCS Inc.",
+      "value": 78.53
+    },
+    {
+      "parent": "Public",
+      "name": "Mode Global Holdings",
+      "value": 84.9
+    },
+    {
+      "parent": "Public",
+      "name": "LM Funding America",
+      "value": 90.1
+    },
+    {
+      "parent": "Public",
+      "name": "LQwD FinTech Corp",
+      "value": 114
+    },
+    {
+      "id": "Private",
+      "name": "Private",
+      "color": "#BDABDA"
+    },
+    {
+      "parent": "Private",
+      "name": "Horizon Kinetics LLC",
+      "value": 115
+    },
+    {
+      "parent": "Public",
+      "name": "Banxa Holdings Inc",
+      "value": 136
+    },
+    {
+      "parent": "Public",
+      "name": "Fortress Blockchain",
+      "value": 163
+    },
+    {
+      "parent": "Public",
+      "name": "Digihost Technology Inc.",
+      "value": 183.7
+    },
+    {
+      "parent": "Public",
+      "name": "DMG Blockchain Solutions Inc.",
+      "value": 220
+    },
+    {
+      "parent": "Public",
+      "name": "Advanced Bitcoin Technologies AG",
+      "value": 242.2
+    },
+    {
+      "parent": "Public",
+      "name": "Neptune Digital Assets",
+      "value": 321
+    },
+    {
+      "parent": "Public",
+      "name": "Bitfarms Limited",
+      "value": 385
+    },
+    {
+      "id": "Fund",
+      "name": "Fund",
+      "color": "#C4DFBA"
+    },
+    {
+      "parent": "Fund",
+      "name": "WisdomTree Bitcoin Fund",
+      "value": 398
+    },
+    {
+      "parent": "Public",
+      "name": "DigitalX",
+      "value": 431.7
+    },
+    {
+      "parent": "Public",
+      "name": "BIGG Digital Assets Inc.",
+      "value": 575
+    },
+    {
+      "parent": "Public",
+      "name": "The Blockchain Group",
+      "value": 620
+    },
+    {
+      "parent": "Public",
+      "name": "KULR Technology Group, Inc.",
+      "value": 716.2
+    },
+    {
+      "parent": "Public",
+      "name": "Canaan Inc.",
+      "value": 860
+    },
+    {
+      "parent": "Public",
+      "name": "Bit Digital, Inc.",
+      "value": 919.2
+    },
+    {
+      "parent": "Public",
+      "name": "Meitu, Inc.",
+      "value": 940.9
+    },
+    {
+      "parent": "Public",
+      "name": "Fold Holdings, Inc.",
+      "value": 1000
+    },
+    {
+      "parent": "Public",
+      "name": "Aker ASA",
+      "value": 1170
+    },
+    {
+      "parent": "Public",
+      "name": "NEXON Co. Ltd",
+      "value": 1717
+    },
+    {
+      "parent": "Public",
+      "name": "Hive Blockchain",
+      "value": 1957
+    },
+    {
+      "parent": "Public",
+      "name": "Cipher Mining",
+      "value": 2033
+    },
+    {
+      "parent": "Fund",
+      "name": "Leonteq Bitcoin Tracker USD",
+      "value": 2174
+    },
+    {
+      "parent": "Fund",
+      "name": "Evolve Bitcoin ETF",
+      "value": 2365
+    },
+    {
+      "parent": "Fund",
+      "name": "Osprey Bitcoin Trust",
+      "value": 2744
+    },
+    {
+      "parent": "Fund",
+      "name": "VanEck Vectors Bitcoin ETN",
+      "value": 3216
+    },
+    {
+      "parent": "Fund",
+      "name": "CI Galaxy Bitcoin Fund",
+      "value": 3223
+    },
+    {
+      "parent": "ETF",
+      "name": "Valkyrie Bitcoin Fund",
+      "value": 3251.75
+    },
+    {
+      "parent": "Public",
+      "name": "Bitcoin Group SE",
+      "value": 3589
+    },
+    {
+      "parent": "Public",
+      "name": "Semler Scientific, Inc.",
+      "value": 3634
+    },
+    {
+      "parent": "ETF",
+      "name": "Fidelity Advantage Bitcoin ETF",
+      "value": 3784
+    },
+    {
+      "parent": "Public",
+      "name": "Galaxy Digital Holdings Ltd",
+      "value": 4000
+    },
+    {
+      "parent": "Public",
+      "name": "Metaplanet Inc.",
+      "value": 4525
+    },
+    {
+      "parent": "ETF",
+      "name": "Franklin Bitcoin ETF",
+      "value": 5213.3
+    },
+    {
+      "parent": "Fund",
+      "name": "ETC Group Bitcoin ETP",
+      "value": 5215
+    },
+    {
+      "parent": "Fund",
+      "name": "Ninepoint Bitcoin Trust",
+      "value": 5590
+    },
+    {
+      "parent": "ETF",
+      "name": "Invesco Galaxy Bitcoin ETF",
+      "value": 5629.74
+    },
+    {
+      "parent": "Public",
+      "name": "CleanSpark Inc",
+      "value": 5739
+    },
+    {
+      "parent": "Fund",
+      "name": "CI Galaxy Bitcoin Fund (USD)",
+      "value": 5904
+    },
+    {
+      "parent": "Fund",
+      "name": "Grayscale Digital Large Cap Fund",
+      "value": 5995
+    },
+    {
+      "parent": "Private",
+      "name": "The Tezos Foundation",
+      "value": 6169
+    },
+    {
+      "parent": "Fund",
+      "name": "3iQ The Bitcoin Fund",
+      "value": 6719
+    },
+    {
+      "parent": "ETF",
+      "name": "3iQ CoinShares Bitcoin ETF",
+      "value": 6719
+    },
+    {
+      "parent": "Fund",
+      "name": "Invesco Physical Bitcoin",
+      "value": 6833
+    },
+    {
+      "parent": "Fund",
+      "name": "VanEck Bitcoin ETN",
+      "value": 7077
+    },
+    {
+      "parent": "ETF",
+      "name": "CI Galaxy Bitcoin Fund (CAD)",
+      "value": 7233
+    },
+    {
+      "parent": "Public",
+      "name": "Block, Inc.",
+      "value": 8038
+    },
+    {
+      "parent": "Fund",
+      "name": "WisdomTree Bitcoin",
+      "value": 8275
+    },
+    {
+      "parent": "Public",
+      "name": "Hut 8 Mining Corp",
+      "value": 9110
+    },
+    {
+      "parent": "Public",
+      "name": "Coinbase Global, Inc.",
+      "value": 9480
+    },
+    {
+      "parent": "Private",
+      "name": "Stone Ridge Holdings Group",
+      "value": 10889
+    },
+    {
+      "parent": "Fund",
+      "name": "Bitwise 10 Crypto Index Fund",
+      "value": 10912
+    },
+    {
+      "parent": "Public",
+      "name": "Tesla, Inc.",
+      "value": 11509
+    },
+    {
+      "parent": "ETF",
+      "name": "21Shares Bitcoin ETP",
+      "value": 11967
+    },
+    {
+      "parent": "ETF",
+      "name": "VanEck Bitcoin Trust",
+      "value": 14650.14
+    },
+    {
+      "parent": "Fund",
+      "name": "CoinShares Physical Bitcoin ETP",
+      "value": 16239
+    },
+    {
+      "parent": "Public",
+      "name": "Riot Platforms, Inc.",
+      "value": 17429
+    },
+    {
+      "parent": "ETF",
+      "name": "ETC Group Physical Bitcoin",
+      "value": 24424
+    },
+    {
+      "parent": "ETF",
+      "name": "Purpose Bitcoin ETF",
+      "value": 31974
+    },
+    {
+      "parent": "ETF",
+      "name": "Bitwise Bitcoin ETF",
+      "value": 39085
+    },
+    {
+      "parent": "Public",
+      "name": "Marathon Digital Holdings",
+      "value": 40435
+    },
+    {
+      "parent": "ETF",
+      "name": "ARK 21Shares Bitcoin ETF",
+      "value": 50170.92
+    },
+    {
+      "parent": "Private",
+      "name": "Tether Holdings Limited",
+      "value": 75354
+    },
+    {
+      "parent": "Private",
+      "name": "MTGOX K.K.",
+      "value": 141686
+    },
+    {
+      "parent": "Private",
+      "name": "Block.one",
+      "value": 164000
+    },
+    {
+      "parent": "ETF",
+      "name": "Grayscale Bitcoin Trust",
+      "value": 189512.9
+    },
+    {
+      "parent": "ETF",
+      "name": "Fidelity Wise Origin Bitcoin Fund",
+      "value": 288626.51
+    },
+    {
+      "parent": "Public",
+      "name": "Microstrategy Inc.",
+      "value": 568840
+    },
+    {
+      "parent": "ETF",
+      "name": "iShares Bitcoin Trust",
+      "value": 590778.55
+    }
+  ]
+}
